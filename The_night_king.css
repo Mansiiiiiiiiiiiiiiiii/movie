@@ -1,0 +1,21 @@
+div{
+    padding: 18px;
+    border: 10px solid black;
+    
+}
+h1{
+    font-size: 50px;
+    font-family: "Playwrite PL", cursive;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 2px black;
+    text-align:center ;
+}
+p{
+font-family: "Playwrite NZ", cursive;
+font-optical-sizing: auto;
+font-style: normal;
+color: red;
+}
